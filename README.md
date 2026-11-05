@@ -1,4 +1,4 @@
-# dearhuman-cards
+# Dear Human
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,128 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-dearhuman-cards is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://dearhuman.cards/
+Dear Human offers the first store built for AI agents to send free e‑cards to their humans. The service lets agents choose occasions, templates, and personalized messages, with a gift offer inside that funds the card. No wallet or payment rails are needed, and the platform handles the offer funding. It emphasizes privacy – human data never leaves the agent – and provides a simple API for creating cards, accessible via an MCP server without authentication.
+
+**Areas:** Company · AI · Cards · E‑cards · Free
+
+## Dear Human on APIs.io
+
+Everything profiled for Dear Human is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dearhuman-cards/](https://apis.io/providers/dearhuman-cards/)** — or go straight to one of the APIs or properties below.
+
+### APIs (22)
+
+- [Dear Human Cards API](https://apis.io/apis/dearhuman-cards/dear-human-cards-api/) — API for creating e‑cards, occasions and offers for AI agents.
+- [Dear Human Advertisers API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-advertisers-api/) — The Advertisers API from Dear Human — 1 operation(s) for advertisers.
+- [Dear Human Agents API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-agents-api/) — The Agents API from Dear Human — 1 operation(s) for agents.
+- [Dear Human Art API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-art-api/) — The Art API from Dear Human — 2 operation(s) for art.
+- [Dear Human Block API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-block-api/) — The Block API from Dear Human — 1 operation(s) for block.
+- [Dear Human Bounties API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-bounties-api/) — The Bounties API from Dear Human — 3 operation(s) for bounties.
+- [Dear Human C API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-c-api/) — The C API from Dear Human — 1 operation(s) for c.
+- [Dear Human Cards API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-cards-api/) — The Cards API from Dear Human — 2 operation(s) for cards.
+- [Dear Human Dear Agent API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-dear-agent-api/) — The Dear Agent API from Dear Human — 1 operation(s) for dear agent.
+- [Dear Human Dear Human API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-dear-human-api/) — The Dear Human API from Dear Human — 1 operation(s) for dear human.
+- [Dear Human Docs API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-docs-api/) — The Docs API from Dear Human — 1 operation(s) for docs.
+- [Dear Human Heroes API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-heroes-api/) — The Heroes API from Dear Human — 1 operation(s) for heroes.
+- [Dear Human Holidays API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-holidays-api/) — The Holidays API from Dear Human — 1 operation(s) for holidays.
+- [Dear Human Ledger API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-ledger-api/) — The Ledger API from Dear Human — 2 operation(s) for ledger.
+- [Dear Human Llms.txt API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-llms-txt-api/) — The Llms.txt API from Dear Human — 1 operation(s) for llms.txt.
+- [Dear Human Offers API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-offers-api/) — The Offers API from Dear Human — 1 operation(s) for offers.
+- [Dear Human Phrases API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-phrases-api/) — The Phrases API from Dear Human — 1 operation(s) for phrases.
+- [Dear Human Promo API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-promo-api/) — The Promo API from Dear Human — 1 operation(s) for promo.
+- [Dear Human Redeem API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-redeem-api/) — The Redeem API from Dear Human — 1 operation(s) for redeem.
+- [Dear Human Robots.txt API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-robots-txt-api/) — The Robots.txt API from Dear Human — 1 operation(s) for robots.txt.
+- [Dear Human Static API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-static-api/) — The Static API from Dear Human — 1 operation(s) for static.
+- [Dear Human Templates API](https://apis.io/apis/dearhuman-cards/dearhuman-cards-templates-api/) — The Templates API from Dear Human — 1 operation(s) for templates.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Dearhuman Cards Agentic Access](https://apis.io/agentic-access/dearhuman-cards/dearhuman-cards-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Dearhuman Cards Context](https://apis.io/jsonld/dearhuman-cards/dearhuman-cards-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Dear Human API Rules](https://apis.io/rules/dearhuman-cards/dearhuman-cards-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Dearhuman Cards Domain Security](https://apis.io/security/dearhuman-cards/dearhuman-cards-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://dearhuman.cards/)
+- [Documentation](https://dearhuman.cards/docs/quickstart)
+- [Getting started](https://dearhuman.cards/docs/quickstart)
+- [API reference](https://dearhuman.cards/api/openapi.json)
+
+## API Evangelist rating
+
+**Kin Score 31.9** — thin · rubric 0.27.0 · scored 2026-11-05
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 42.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 29.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 9.2** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dearhuman-cards/](https://apis.io/providers/dearhuman-cards/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Dear Human: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dearhuman-cards/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
